@@ -30,7 +30,7 @@
     "@elastic/elasticsearch": "7.5.0",
     "axios": "0.19.0",
     "bignumber.js": "9.0.0",
-    "config": "3.2.4",
+    "config": "3.3.2",
     "dotenv-safe": "8.2.0",
     "ethers": "4.0.47",
     "koa": "2.11.0",
